@@ -1,0 +1,15 @@
+{
+	"name": "adf-vuberproject-dev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9efa02c7-f579-4740-8945-78271b5ca3e5",
+		"tenantId": "ea39d649-fb83-4a80-9265-1b6d4df59f1d"
+	}
+}
