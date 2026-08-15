@@ -52,8 +52,6 @@
 						{
 							"name": "Switch1",
 							"type": "Switch",
-							"state": "Inactive",
-							"onInactiveMarkAs": "Succeeded",
 							"dependsOn": [],
 							"userProperties": [],
 							"typeProperties": {
